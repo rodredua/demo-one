@@ -1,0 +1,14 @@
+ Volume in drive C is Windows
+ Volume Serial Number is F635-A4EE
+
+ Directory of C:\Eduardo\Estudio\Pending\Git\Projects\demo-one
+
+07/31/2024  06:15 PM    <DIR>          .
+07/31/2024  06:15 PM    <DIR>          ..
+07/31/2024  06:14 PM                15 another test file.txt
+07/31/2024  06:14 PM               368 test.txt
+07/31/2024  06:14 PM               480 test1.txt
+07/31/2024  06:14 PM               530 test2.txt
+07/31/2024  06:15 PM                 0 test3.txt
+               5 File(s)          1,393 bytes
+               2 Dir(s)  19,945,037,824 bytes free
